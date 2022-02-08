@@ -42,7 +42,7 @@
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
-
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." title="\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." />
 
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
