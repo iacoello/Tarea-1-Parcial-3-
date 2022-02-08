@@ -42,10 +42,12 @@
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
-<img src="https://latex.codecogs.com/svg.image?\\Tenemos~los~siguientes~inductores\to&space;75\mu&space;H,50\mu&space;H,25\mu&space;H~y~15\mu&space;H\\&space;\frac{1}{L_{T}}=&space;\frac{1}{L_{1}}&plus;\frac{1}{L_{2}}&plus;\frac{1}{L_{3}}&plus;\frac{1}{L_{4}}\\&space;\frac{1}{L_{T}}=&space;\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}\\L_{T}&space;=&space;\frac{1}{\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}}\\L_{T}&space;=7,14&space;\mu&space;H" title="\\Tenemos~los~siguientes~inductores\to 75\mu H,50\mu H,25\mu H~y~15\mu H\\ \frac{1}{L_{T}}= \frac{1}{L_{1}}+\frac{1}{L_{2}}+\frac{1}{L_{3}}+\frac{1}{L_{4}}\\ \frac{1}{L_{T}}= \frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}\\L_{T} = \frac{1}{\frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}}\\L_{T} =7,14 \mu H" />
+
 
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
+
+<img src="https://latex.codecogs.com/svg.image?\\Tenemos~los~siguientes~inductores\to&space;75\mu&space;H,50\mu&space;H,25\mu&space;H~y~15\mu&space;H\\&space;\frac{1}{L_{T}}=&space;\frac{1}{L_{1}}&plus;\frac{1}{L_{2}}&plus;\frac{1}{L_{3}}&plus;\frac{1}{L_{4}}\\&space;\frac{1}{L_{T}}=&space;\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}\\L_{T}&space;=&space;\frac{1}{\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}}\\L_{T}&space;=7,14&space;\mu&space;H" title="\\Tenemos~los~siguientes~inductores\to 75\mu H,50\mu H,25\mu H~y~15\mu H\\ \frac{1}{L_{T}}= \frac{1}{L_{1}}+\frac{1}{L_{2}}+\frac{1}{L_{3}}+\frac{1}{L_{4}}\\ \frac{1}{L_{T}}= \frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}\\L_{T} = \frac{1}{\frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}}\\L_{T} =7,14 \mu H" />
 
 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
 siguientes instantes tras de que se cierra el interruptor:
