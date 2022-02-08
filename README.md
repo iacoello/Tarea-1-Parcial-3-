@@ -36,10 +36,10 @@
 
 3. ¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
 
-9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
+9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
-15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
+15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
 
 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
