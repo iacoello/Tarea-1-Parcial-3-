@@ -62,6 +62,9 @@ siguientes instantes tras de que se cierra el interruptor:
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
 
+![image](https://user-images.githubusercontent.com/93835587/152896218-9aecc243-158c-40d2-af19-af3a027b3d66.png)
+
+
 **Capitulo 14**
 
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
