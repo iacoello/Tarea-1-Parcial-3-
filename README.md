@@ -32,7 +32,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**3.RESOLUCIÓN DE LOS EJERCICIOS**
+**Capitulo 13**
+
 
 3.¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
 
@@ -54,6 +55,8 @@ siguientes instantes tras de que se cierra el interruptor:
 
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
+
+**Capitulo 14**
 
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
