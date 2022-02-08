@@ -34,7 +34,7 @@
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
-3. ¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
+3.¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
 
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
@@ -48,11 +48,11 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835587/152893881-62c7c2e6-02a3-4da3-ab3e-36228814ce0f.png)
 
-27. Determine la constante de tiempo para el circuito de la figura 13-50.
+27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
 ![image](https://user-images.githubusercontent.com/93835587/152893922-fc7c2b77-2476-47cd-9f41-660be9c1fbd7.png)
 
-33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
+33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
