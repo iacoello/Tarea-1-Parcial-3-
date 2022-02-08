@@ -84,13 +84,22 @@ un voltaje de entrada rms de 10 V?
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
 15.Determine las siguientes cantidades en la figura 14-46.
+
 (a) Corriente primaria
+
+<img src="https://latex.codecogs.com/svg.image?~\\25mA&space;" title="~\\25mA " />
 
 (b) Corriente secundaria
 
+<img src="https://latex.codecogs.com/svg.image?~\\50mA" title="~\\50mA" />
+
 (c) Voltaje secundario
 
+<img src="https://latex.codecogs.com/svg.image?~\\15V" title="~\\15V" />
+
 (d) Potencia en la carga
+
+<img src="https://latex.codecogs.com/svg.image?~\\750mW&space;" title="~\\750mW " />
 
 ![image](https://user-images.githubusercontent.com/93835587/152894432-d68034e2-7f82-4aaf-82c3-56d9c85a273d.png)
 
