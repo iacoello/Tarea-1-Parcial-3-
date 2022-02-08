@@ -55,15 +55,16 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835587/152893881-62c7c2e6-02a3-4da3-ab3e-36228814ce0f.png)
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;b&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-100}&space;\\VC=5.5&space;" title="\\Respuesta~\left ( b \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-100} \\VC=5.5 " />
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;a&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-100}&space;\\VC=5,5" title="\\Respuesta~\left ( a \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-100} \\VC=5,5" />
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;c&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-200}&space;\\VC=2.0&space;" title="\\Respuesta~\left ( c \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-200} \\VC=2.0 " />
+<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;b&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-200}&space;\\VC=2,0" title="\\Respuesta~\left ( b \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-200} \\VC=2,0" />
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;c&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-300}&space;\\VC=747mv" title="\\Respuesta~\left ( c \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-300} \\VC=747mv" />
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;d&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-400}&space;\\VC=275mv" title="\\Respuesta~\left ( d \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-400} \\VC=275mv" />
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;e&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-500}&space;\\VC=101mv" title="\\Respuesta~\left ( e \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-500} \\VC=101mv" />
+
 
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
