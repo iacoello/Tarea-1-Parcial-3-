@@ -55,11 +55,11 @@ siguientes instantes tras de que se cierra el interruptor:
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
 
-3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
-9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-15. Determine las siguientes cantidades en la figura 14-46.
+15.Determine las siguientes cantidades en la figura 14-46.
 (a) Corriente primaria
 
 (b) Corriente secundaria
@@ -70,13 +70,13 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152894432-d68034e2-7f82-4aaf-82c3-56d9c85a273d.png)
 
-21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
-27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
 ![image](https://user-images.githubusercontent.com/93835587/152894703-a559b5f8-069e-4245-a402-00e427071226.png)
 
-33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
 
 
