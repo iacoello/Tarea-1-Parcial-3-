@@ -76,7 +76,7 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152896218-9aecc243-158c-40d2-af19-af3a027b3d66.png)
 
-<img src="https://latex.codecogs.com/svg.image?~Tenemos~las~siguientes~respuestas~al~problema&space;\\(a)&space;55.5&space;Hz&space;\\(b)&space;796&space;Hz&space;\\(c)&space;597&space;Hz" title="~Tenemos~las~siguientes~respuestas~al~problema \\(a) 55.5 Hz \\(b) 796 Hz \\(c) 597 Hz" />
+![image](https://user-images.githubusercontent.com/93835587/153416141-f6179ebc-bd07-4f78-9004-d99d72537d79.png)
 
 **Capitulo 14**
 
