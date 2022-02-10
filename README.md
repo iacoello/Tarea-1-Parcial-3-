@@ -59,9 +59,9 @@ siguientes instantes tras de que se cierra el interruptor:
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;b&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-200}&space;\\VC=2,0" title="\\Respuesta~\left ( b \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-200} \\VC=2,0" />
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;c&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-300}&space;\\VC=747mv" title="\\Respuesta~\left ( c \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-300} \\VC=747mv" />
+![image](https://user-images.githubusercontent.com/93835587/153416707-7f005ca3-f3a6-4708-b988-9c3e0e1e8495.png)
 
-<img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;d&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-400}&space;\\VC=275mv" title="\\Respuesta~\left ( d \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-400} \\VC=275mv" />
+![image](https://user-images.githubusercontent.com/93835587/153416596-153e5651-b607-47dc-b1ce-f2f5765d72e4.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;e&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-500}&space;\\VC=101mv" title="\\Respuesta~\left ( e \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-500} \\VC=101mv" />
 
