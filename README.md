@@ -110,7 +110,7 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152894703-a559b5f8-069e-4245-a402-00e427071226.png)
 
-<img src="https://latex.codecogs.com/svg.image?~Tenemos~las~siguientes~respuestas~al~problema&space;\\V1&space;=11.5&space;V&space;\\V2&space;=&space;23.0&space;V\\V3&space;=&space;23.0&space;V\\V4&space;=&space;46.0&space;V" title="~Tenemos~las~siguientes~respuestas~al~problema \\V1 =11.5 V \\V2 = 23.0 V\\V3 = 23.0 V\\V4 = 46.0 V" />
+![image](https://user-images.githubusercontent.com/93835587/153415899-2313b292-c9e7-4c55-9470-f5c74c7e4c67.png)
 
 33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
