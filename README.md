@@ -121,18 +121,8 @@ siguientes instantes tras de que se cierra el interruptor:
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}"><img src="http://www.alciro.org/cgi/tex.cgi?R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" title="R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" border="0" /></a>
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\\R_{T}=4.57 kohm
-\\R_{T}=4570 ohm"><img src="http://www.alciro.org/cgi/tex.cgi?\\R_{T}=4.57 kohm
-\\R_{T}=4570 ohm" title="\\R_{T}=4.57 kohm
-\\R_{T}=4570 ohm" border="0" /></a>
+![image](https://user-images.githubusercontent.com/93835587/153599291-f8d5cf01-cc80-4040-9813-73cd610c3953.png)
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\\\tau= \frac{L}{R}
-\\ \tau= \frac{3.3}{4.57}
-\\ \tau=0.722\mu s"><img src="http://www.alciro.org/cgi/tex.cgi?\\\tau= \frac{L}{R}
-\\ \tau= \frac{3.3}{4.57}
-\\ \tau=0.722\mu s" title="\\\tau= \frac{L}{R}
-\\ \tau= \frac{3.3}{4.57}
-\\ \tau=0.722\mu s" border="0" /></a>
 
 29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
 
