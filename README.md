@@ -95,6 +95,22 @@ siguientes instantes tras de que se cierra el interruptor:
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;e&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-500}&space;\\VC=101mv" title="\\Respuesta~\left ( e \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-500} \\VC=101mv" />
 
 
+23. Repita el problema 21 para los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/93835533/153517776-e690d9c4-ef0d-4f74-9547-e08ee20a94a5.png)
+
+(a) 2µs
+
+![image](https://user-images.githubusercontent.com/93835533/153518004-eb85a4be-dd1e-4e54-81aa-842aec24f98f.png)
+
+(b) 5µs
+
+![image](https://user-images.githubusercontent.com/93835533/153518029-d12855f0-64e9-4e28-8d1c-b63a56eb7f57.png)
+
+(c) 15µs
+
+![image](https://user-images.githubusercontent.com/93835533/153518042-b4e3fd60-840f-4cdc-9321-bd360c86a100.png)
+
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
