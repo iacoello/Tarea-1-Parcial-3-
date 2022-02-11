@@ -121,6 +121,9 @@ siguientes instantes tras de que se cierra el interruptor:
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}"><img src="http://www.alciro.org/cgi/tex.cgi?R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" title="R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" border="0" /></a>
 
+![image](https://user-images.githubusercontent.com/93835587/153599520-6d7fc2c6-09b6-42c4-ad66-f4e96443569a.png)
+
+
 ![image](https://user-images.githubusercontent.com/93835587/153599291-f8d5cf01-cc80-4040-9813-73cd610c3953.png)
 
 
