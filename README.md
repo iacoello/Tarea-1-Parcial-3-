@@ -176,6 +176,7 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518200-a3ef324a-f513-44c3-be02-fb6da8967cd2.png)
 
+![image](https://user-images.githubusercontent.com/93835587/153605176-f4e5e2f8-bf6e-4c7e-9071-42718d5352b9.png)
 
 
 
