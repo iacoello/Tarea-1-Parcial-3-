@@ -186,6 +186,8 @@ un voltaje de entrada rms de 10 V?
 
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
+![image](https://user-images.githubusercontent.com/93835587/153605714-e03d10d3-d25d-4fcf-9773-609162801ad6.png)
+
 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 
 ![image](https://user-images.githubusercontent.com/93835533/153518737-e459cda8-94b6-4d28-8c9a-4586f3fda440.png)
