@@ -116,12 +116,31 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835587/152893922-fc7c2b77-2476-47cd-9f41-660be9c1fbd7.png)
 
+29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
+
+![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
+
+
+
+
+
+
+
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152896218-9aecc243-158c-40d2-af19-af3a027b3d66.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/153416141-f6179ebc-bd07-4f78-9004-d99d72537d79.png)
+
+35. Determine IL2 en la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/93835533/153518200-a3ef324a-f513-44c3-be02-fb6da8967cd2.png)
+
+
+
+
+
 
 **Capitulo 14**
 
