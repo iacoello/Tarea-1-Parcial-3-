@@ -161,6 +161,10 @@ un voltaje de entrada rms de 10 V?
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/93835533/153518939-c2f0d536-7d04-44b5-a272-716f9df0a543.png)
+
 15.Determine las siguientes cantidades en la figura 14-46.
 
 (a) Corriente primaria
@@ -181,7 +185,19 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152894432-d68034e2-7f82-4aaf-82c3-56d9c85a273d.png)
 
+17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
+
+![image](https://user-images.githubusercontent.com/93835533/153519002-0e4be143-0cd5-4fb6-a993-0034f7a7b027.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153519062-ffaf3e0b-757a-4821-9590-cd34335cff9e.png)
+
 21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en realidad al devanado secundario.
+
+![image](https://user-images.githubusercontent.com/93835533/153519195-59a2a4bc-5c51-47b7-a729-49255bdf3900.png)
 
 27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
