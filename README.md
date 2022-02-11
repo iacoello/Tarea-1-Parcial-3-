@@ -39,15 +39,44 @@
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos\to&space;\frac{di}{dt}=&space;10mA/\mu&space;s,&space;&space;L=5\mu&space;H\\v=L\cdot&space;&space;\frac{di}{dt}\\v=5\mu&space;H\cdot10mA/\mu&space;s\\v=50mV&space;" title="\\Tenemos\to \frac{di}{dt}= 10mA/\mu s, L=5\mu H\\v=L\cdot \frac{di}{dt}\\v=5\mu H\cdot10mA/\mu s\\v=50mV " />
 
+5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+![image](https://user-images.githubusercontent.com/93835533/153516971-060428e9-9d8a-49f2-850a-d420dc0426f9.png)
+
+
+
+
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." title="\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." />
 
+11. Se conectan cinco inductores en serie. El valor más bajo es de 5 µH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+
+![image](https://user-images.githubusercontent.com/93835533/153517086-bc57b85d-060d-46ef-b685-de5cfd32d3a0.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517160-248419a9-b146-41ed-91b0-e710eb5e4525.png)
+
+
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos~los~siguientes~inductores\to&space;75\mu&space;H,50\mu&space;H,25\mu&space;H~y~15\mu&space;H\\&space;\frac{1}{L_{T}}=&space;\frac{1}{L_{1}}&plus;\frac{1}{L_{2}}&plus;\frac{1}{L_{3}}&plus;\frac{1}{L_{4}}\\&space;\frac{1}{L_{T}}=&space;\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}\\L_{T}&space;=&space;\frac{1}{\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}}\\L_{T}&space;=7,14&space;\mu&space;H" title="\\Tenemos~los~siguientes~inductores\to 75\mu H,50\mu H,25\mu H~y~15\mu H\\ \frac{1}{L_{T}}= \frac{1}{L_{1}}+\frac{1}{L_{2}}+\frac{1}{L_{3}}+\frac{1}{L_{4}}\\ \frac{1}{L_{T}}= \frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}\\L_{T} = \frac{1}{\frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}}\\L_{T} =7,14 \mu H" />
+
+17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
+
+![image](https://user-images.githubusercontent.com/93835533/153517249-b083a34a-8d79-40c6-acf2-d32e3f7307bb.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517560-b7678767-b489-4a8a-8301-1cf1c21ae1ee.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517570-fc324ab2-0be7-4970-b71b-56c407bd2c39.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517578-350c109a-1f84-4505-9556-992a523c9746.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517597-169f7ebe-5084-430d-8ba7-36465be4e880.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153517604-e22bb407-e542-4b0a-86a7-c8069c3b127a.png)
+
 
 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
 siguientes instantes tras de que se cierra el interruptor:
