@@ -143,6 +143,9 @@ siguientes instantes tras de que se cierra el interruptor:
 
 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
+![image](https://user-images.githubusercontent.com/93835587/153602419-c51ff8e3-3d45-4c13-b8d8-6b7dff431078.png)
+
+
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
 ![image](https://user-images.githubusercontent.com/93835587/152893922-fc7c2b77-2476-47cd-9f41-660be9c1fbd7.png)
