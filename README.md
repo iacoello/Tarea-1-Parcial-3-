@@ -46,13 +46,23 @@ Entender el funcionamiento de los inductores y bobinas en la electronica moderna
 
 1. Convierta los siguientes valores en milihenries:
 
+a= 1x100=1000 mh
 
+b=250/1000=0.25mh
+
+c=10/1000=0.01mh
+
+d=0.005h*1000=0.5mh
 
 3.¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos\to&space;\frac{di}{dt}=&space;10mA/\mu&space;s,&space;&space;L=5\mu&space;H\\v=L\cdot&space;&space;\frac{di}{dt}\\v=5\mu&space;H\cdot10mA/\mu&space;s\\v=50mV&space;" title="\\Tenemos\to \frac{di}{dt}= 10mA/\mu s, L=5\mu H\\v=L\cdot \frac{di}{dt}\\v=5\mu H\cdot10mA/\mu s\\v=50mV " />
 
 5.La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+100mh/1000=0.1h
+
+Vmid=L(di/dt)=0.1(200)=20mv
 
 ![image](https://user-images.githubusercontent.com/93835533/153516971-060428e9-9d8a-49f2-850a-d420dc0426f9.png)
 
@@ -69,7 +79,9 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 ![image](https://user-images.githubusercontent.com/93835533/153517160-248419a9-b146-41ed-91b0-e710eb5e4525.png)
 
-13. Determine la inductancia total en la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/93800511/153600495-bbc7a497-35d6-4cbd-a2a2-fbdd875c3702.png)
+
 
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
@@ -137,9 +149,6 @@ siguientes instantes tras de que se cierra el interruptor:
 29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
-
-![image](https://user-images.githubusercontent.com/93835587/153600424-a2538ce6-a764-48bf-bdaa-09b299eb608e.png)
-
 
 31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
 de 400 Hz.
