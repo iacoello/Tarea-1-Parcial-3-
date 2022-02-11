@@ -68,6 +68,9 @@ Vmid=L(di/dt)=0.1(200)=20mv
 
 7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
 
+![image](https://user-images.githubusercontent.com/93835587/153601862-d5ffcd24-e135-4157-8022-a663a077a1d2.png)
+
+
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
