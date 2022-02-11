@@ -206,6 +206,8 @@ un voltaje de entrada rms de 10 V?
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
+![image](https://user-images.githubusercontent.com/93835587/153605993-84a05aee-b3e6-4f5d-b240-7444b296dcd0.png)
+
 11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518939-c2f0d536-7d04-44b5-a272-716f9df0a543.png)
