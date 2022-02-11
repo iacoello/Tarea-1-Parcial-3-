@@ -246,6 +246,9 @@ un voltaje de entrada rms de 10 V?
 
 21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
+![image](https://user-images.githubusercontent.com/93835587/153606577-774c50bf-6273-43fa-94ee-e58beb0c9435.png)
+
+
 23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
 El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en realidad al devanado secundario.
