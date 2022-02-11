@@ -150,6 +150,9 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
 
+![image](https://user-images.githubusercontent.com/93835587/153601276-b622e52f-7ac8-4232-8dca-9aa9fd41a549.png)
+
+
 31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
 de 400 Hz.
 
