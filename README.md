@@ -205,6 +205,17 @@ El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en
 
 ![image](https://user-images.githubusercontent.com/93835587/153415899-2313b292-c9e7-4c55-9470-f5c74c7e4c67.png)
 
+29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/93835533/153519427-5826596d-0d8d-447e-8173-929230fe477d.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153519438-41e3e5f7-4e9f-4e51-a1e0-56ba3e3523ef.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153519452-2b27fd7c-02a7-470d-bd8a-04c5cc1f5a96.png)
+
+![image](https://user-images.githubusercontent.com/93835533/153519458-83b6152b-7f14-4754-9d16-41d390adf317.png)
+
+
 33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
 ![image](https://user-images.githubusercontent.com/93835587/153415407-b108e662-52ee-4278-84ef-f8fa77d8e054.png)
