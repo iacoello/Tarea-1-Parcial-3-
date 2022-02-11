@@ -19,10 +19,17 @@
 
 **1. OBJETIVOS**
 
+Determinar lso conceptos alrededor de los inductores y bobinas que se encuentran enm el campo de la electronica como componentes de corriente DC que permiten la emicion y almacenamiento de corriente para transmitir pulsacines o crear campos electricos que desarrollan en si mismos la electronica moderna.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.2 OBJETIVOS ESPECIFICOS** 
+
+Completar los conocimientos sobre circuitos usadndo los cmponentes revisdados en las unidades previas 
+
+Entender el funcionamiento de los inductores y bobinas en la electronica moderna.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,6 +44,9 @@
 
 **Capitulo 13**
 
+1. Convierta los siguientes valores en milihenries:
+
+
 
 3.¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
 
@@ -46,8 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/93835533/153516971-060428e9-9d8a-49f2-850a-d420dc0426f9.png)
 
-
-
+7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
 
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
@@ -60,6 +69,7 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 ![image](https://user-images.githubusercontent.com/93835533/153517160-248419a9-b146-41ed-91b0-e710eb5e4525.png)
 
+13. Determine la inductancia total en la figura 13-44.
 
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
@@ -79,6 +89,8 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 ![image](https://user-images.githubusercontent.com/93835533/153517597-169f7ebe-5084-430d-8ba7-36465be4e880.png)
 
 ![image](https://user-images.githubusercontent.com/93835533/153517604-e22bb407-e542-4b0a-86a7-c8069c3b127a.png)
+
+19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
 
 
 21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
@@ -114,6 +126,7 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835533/153518042-b4e3fd60-840f-4cdc-9321-bd360c86a100.png)
 
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
@@ -121,20 +134,12 @@ siguientes instantes tras de que se cierra el interruptor:
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}"><img src="http://www.alciro.org/cgi/tex.cgi?R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" title="R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" border="0" /></a>
 
-![image](https://user-images.githubusercontent.com/93835587/153599520-6d7fc2c6-09b6-42c4-ad66-f4e96443569a.png)
-
-
-![image](https://user-images.githubusercontent.com/93835587/153599291-f8d5cf01-cc80-4040-9813-73cd610c3953.png)
-
-
 29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
 
-
-
-
-
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
+de 400 Hz.
 
 
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
@@ -153,6 +158,8 @@ un voltaje de entrada rms de 10 V?
 
 **Capitulo 14**
 
+1. Si la fuente de ca se pone en cortocircuito, el voltaje a través de RL
+
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
@@ -169,12 +176,15 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518771-a5b0fd1e-ee3f-4a21-b4a4-1bd236c0ab84.png)
 
+7. Si el voltaje de fuente se incrementa, el volumen del sonido que sale del altavoz
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
 11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518939-c2f0d536-7d04-44b5-a272-716f9df0a543.png)
+
+13. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
 15.Determine las siguientes cantidades en la figura 14-46.
 
@@ -202,6 +212,10 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835533/153519062-ffaf3e0b-757a-4821-9590-cd34335cff9e.png)
 
+
+19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
+
+
 21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
 23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
@@ -209,6 +223,9 @@ un voltaje de entrada rms de 10 V?
 El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en realidad al devanado secundario.
 
 ![image](https://user-images.githubusercontent.com/93835533/153519195-59a2a4bc-5c51-47b7-a729-49255bdf3900.png)
+
+25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima
+de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
 27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
@@ -226,6 +243,7 @@ El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en
 
 ![image](https://user-images.githubusercontent.com/93835533/153519458-83b6152b-7f14-4754-9d16-41d390adf317.png)
 
+31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
 33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
@@ -239,6 +257,8 @@ El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en
 
 
 **5.CONCLUCIONES**
+
+En conclucion los inductores y bobinas representan gran parte del desarrollo tecnologico de las ultimas decadas, estos permitieron el concepto general de la electronica moderna gracias a aquer pudieron acoplarse a los aprendisajes previos de esta manera se genera en gran parte los sistemas electronicos cotidianos que tenemos en la actualidad. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
