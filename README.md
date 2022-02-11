@@ -68,6 +68,9 @@ Vmid=L(di/dt)=0.1(200)=20mv
 
 7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
 
+![image](https://user-images.githubusercontent.com/93835587/153601862-d5ffcd24-e135-4157-8022-a663a077a1d2.png)
+
+
 9.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un
 núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa =200).
 
@@ -82,11 +85,6 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 ![image](https://user-images.githubusercontent.com/93800511/153600495-bbc7a497-35d6-4cbd-a2a2-fbdd875c3702.png)
 
-500uh/1000=0.5mh
-
-50mh/0.5mh+0.01mh
-
-=50.51mh
 
 15.Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH,
 50 mH, 25 mH, y 15 mH.
@@ -109,23 +107,6 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
 
-a)R=100 OHM. L=100uh
-
-R=l/P
-
-R=100/100=1uh
-
-b)R=4.5KOHM, L=10uh
-
-R=l/p
-
-R=10/4.7=10uh
-
-c)R=1.5MOHM, L=3h
-
-R=l/P
-
-R=3/1.5=2uh
 
 21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
 siguientes instantes tras de que se cierra el interruptor:
@@ -162,15 +143,26 @@ siguientes instantes tras de que se cierra el interruptor:
 
 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
+![image](https://user-images.githubusercontent.com/93835587/153602419-c51ff8e3-3d45-4c13-b8d8-6b7dff431078.png)
+
+
 27.Determine la constante de tiempo para el circuito de la figura 13-50.
 
 ![image](https://user-images.githubusercontent.com/93835587/152893922-fc7c2b77-2476-47cd-9f41-660be9c1fbd7.png)
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}"><img src="http://www.alciro.org/cgi/tex.cgi?R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" title="R_{T}= \frac{1}{\frac{1}{4.7}+\frac{1}{4.7}}+\frac{1}{\frac{1}{6.8}+\frac{1}{3.3}}" border="0" /></a>
 
+![image](https://user-images.githubusercontent.com/93835587/153603006-95e82bf6-514e-49b8-8796-0abae35f657e.png)
+
 29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
+
+![image](https://user-images.githubusercontent.com/93835587/153601276-b622e52f-7ac8-4232-8dca-9aa9fd41a549.png)
+
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
+de 400 Hz.
 
 
 33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
@@ -191,14 +183,7 @@ un voltaje de entrada rms de 10 V?
 
 1. Si la fuente de ca se pone en cortocircuito, el voltaje a través de RL
 
-a)aumenta 
-
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
-
-Vi/Vp=n (n=1000/250=4 Vueltas de transformador 
-
-Vi/Vp=n (n=100/400=0.4 Vueltas de transformador
-
 
 5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 
@@ -214,14 +199,9 @@ Vi/Vp=n (n=100/400=0.4 Vueltas de transformador
 
 ![image](https://user-images.githubusercontent.com/93835533/153518771-a5b0fd1e-ee3f-4a21-b4a4-1bd236c0ab84.png)
 
+7. Si el voltaje de fuente se incrementa, el volumen del sonido que sale del altavoz
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
-
-Vi/Vp=n
-
-120/30=n
-
-n=4 Relacion de vueltas 
 
 11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
@@ -258,16 +238,6 @@ n=4 Relacion de vueltas
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
 
-![image](https://user-images.githubusercontent.com/93800511/153602602-fd1d4cf1-f065-4a9b-b5f9-384e509d4272.png)
-
-N=0.5
-
-Rl pot max - 16 Ohm
-
-I=25V/32ohm-0.781A
-
-p(0.781A)2=16ohms-9.76W
-
 
 21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
@@ -279,14 +249,6 @@ El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima
 de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
-
-Con la formula de potencia 
-
-P=I*V
-
-P=10A*2.5kV
-
-P=25kVA
 
 27.Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
@@ -305,9 +267,6 @@ P=25kVA
 ![image](https://user-images.githubusercontent.com/93835533/153519458-83b6152b-7f14-4754-9d16-41d390adf317.png)
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
-
-![image](https://user-images.githubusercontent.com/93800511/153602948-23a6842c-a90e-4158-9730-26b8abd7d025.png)
-
 
 33.¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
