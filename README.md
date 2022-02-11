@@ -39,7 +39,7 @@
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos\to&space;\frac{di}{dt}=&space;10mA/\mu&space;s,&space;&space;L=5\mu&space;H\\v=L\cdot&space;&space;\frac{di}{dt}\\v=5\mu&space;H\cdot10mA/\mu&space;s\\v=50mV&space;" title="\\Tenemos\to \frac{di}{dt}= 10mA/\mu s, L=5\mu H\\v=L\cdot \frac{di}{dt}\\v=5\mu H\cdot10mA/\mu s\\v=50mV " />
 
-5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+5.La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
 
 ![image](https://user-images.githubusercontent.com/93835533/153516971-060428e9-9d8a-49f2-850a-d420dc0426f9.png)
 
@@ -51,7 +51,7 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." title="\\Respuesta\\El~inductor~2~tiene~tres~cuartos~de~la~inductancia~del~inductor~1." />
 
-11. Se conectan cinco inductores en serie. El valor más bajo es de 5 µH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+11.Se conectan cinco inductores en serie. El valor más bajo es de 5 µH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
 
 ![image](https://user-images.githubusercontent.com/93835533/153517086-bc57b85d-060d-46ef-b685-de5cfd32d3a0.png)
 
@@ -63,7 +63,7 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos~los~siguientes~inductores\to&space;75\mu&space;H,50\mu&space;H,25\mu&space;H~y~15\mu&space;H\\&space;\frac{1}{L_{T}}=&space;\frac{1}{L_{1}}&plus;\frac{1}{L_{2}}&plus;\frac{1}{L_{3}}&plus;\frac{1}{L_{4}}\\&space;\frac{1}{L_{T}}=&space;\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}\\L_{T}&space;=&space;\frac{1}{\frac{1}{75\mu&space;H}&plus;\frac{1}{50\mu&space;H}&plus;\frac{1}{25\mu&space;H}&plus;\frac{1}{15\mu&space;H}}\\L_{T}&space;=7,14&space;\mu&space;H" title="\\Tenemos~los~siguientes~inductores\to 75\mu H,50\mu H,25\mu H~y~15\mu H\\ \frac{1}{L_{T}}= \frac{1}{L_{1}}+\frac{1}{L_{2}}+\frac{1}{L_{3}}+\frac{1}{L_{4}}\\ \frac{1}{L_{T}}= \frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}\\L_{T} = \frac{1}{\frac{1}{75\mu H}+\frac{1}{50\mu H}+\frac{1}{25\mu H}+\frac{1}{15\mu H}}\\L_{T} =7,14 \mu H" />
 
-17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
+17.Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
 ![image](https://user-images.githubusercontent.com/93835533/153517249-b083a34a-8d79-40c6-acf2-d32e3f7307bb.png)
 
@@ -78,7 +78,7 @@ núcleo de hierro (permeabilidad relativa =150) y el inductor 1 está enrollado 
 ![image](https://user-images.githubusercontent.com/93835533/153517604-e22bb407-e542-4b0a-86a7-c8069c3b127a.png)
 
 
-21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
+21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los
 siguientes instantes tras de que se cierra el interruptor:
 (a)  10 ms (b) 20 ms (c) 30 ms (d) 40 ms (e) 50 ms
 
@@ -95,7 +95,7 @@ siguientes instantes tras de que se cierra el interruptor:
 <img src="https://latex.codecogs.com/svg.image?\\Respuesta~\left&space;(&space;e&space;\right&space;)\\VC=Ve^{-\frac{t}{R\cdot&space;C}}\\VC=15\left&space;(&space;2.71828&space;\right&space;)^{-500}&space;\\VC=101mv" title="\\Respuesta~\left ( e \right )\\VC=Ve^{-\frac{t}{R\cdot C}}\\VC=15\left ( 2.71828 \right )^{-500} \\VC=101mv" />
 
 
-23. Repita el problema 21 para los siguientes instantes:
+23.Repita el problema 21 para los siguientes instantes:
 
 ![image](https://user-images.githubusercontent.com/93835533/153517776-e690d9c4-ef0d-4f74-9547-e08ee20a94a5.png)
 
@@ -116,7 +116,7 @@ siguientes instantes tras de que se cierra el interruptor:
 
 ![image](https://user-images.githubusercontent.com/93835587/152893922-fc7c2b77-2476-47cd-9f41-660be9c1fbd7.png)
 
-29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
+29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518169-7e2afbdb-a9b8-4ca4-997b-72021a63d962.png)
 
@@ -133,7 +133,7 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/153416141-f6179ebc-bd07-4f78-9004-d99d72537d79.png)
 
-35. Determine IL2 en la figura 13-52.
+35.Determine IL2 en la figura 13-52.
 
 ![image](https://user-images.githubusercontent.com/93835533/153518200-a3ef324a-f513-44c3-be02-fb6da8967cd2.png)
 
@@ -144,7 +144,7 @@ un voltaje de entrada rms de 10 V?
 
 3.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
-5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+5.Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 
 ![image](https://user-images.githubusercontent.com/93835533/153518737-e459cda8-94b6-4d28-8c9a-4586f3fda440.png)
 
@@ -161,7 +161,7 @@ un voltaje de entrada rms de 10 V?
 
 9.Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+11.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/93835533/153518939-c2f0d536-7d04-44b5-a272-716f9df0a543.png)
 
@@ -185,7 +185,7 @@ un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/93835587/152894432-d68034e2-7f82-4aaf-82c3-56d9c85a273d.png)
 
-17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
+17.¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300Ω en el circuito primario?
 
 ![image](https://user-images.githubusercontent.com/93835533/153519002-0e4be143-0cd5-4fb6-a993-0034f7a7b027.png)
 
@@ -193,7 +193,7 @@ un voltaje de entrada rms de 10 V?
 
 21.En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
-23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+23.Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
 El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en realidad al devanado secundario.
 
@@ -205,7 +205,7 @@ El coeficiente de acoplamiento es el porcentaje de flujo magnético que llego en
 
 ![image](https://user-images.githubusercontent.com/93835587/153415899-2313b292-c9e7-4c55-9470-f5c74c7e4c67.png)
 
-29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+29.Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/93835533/153519427-5826596d-0d8d-447e-8173-929230fe477d.png)
 
